@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @thisisAcidic, i´m an private full stack developer from Germany, just developing my own stuff
-- 👀 I’m interested in programming, because I started coding in Middlescool, and now I am working on my own Game with a good friend of mine as well as just messing around with code. 
-- 🌱 I’m currently learning how to 3d model, because this is an importatn step for coding my own Game
-- 📫 How to reach me: 
+- 👋 Hi, I’m @thisisAcidic
 EMAIL :           contact@cidic.me
 
 
