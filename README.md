@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thisisAcidic
-EMAIL :           contact@chronicleapp.de
+EMAIL :           kontakt@chroniclestudio.cloud
 
 
 <!---
