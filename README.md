@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @thisisAcidic
-EMAIL :           kontakt@chroniclestudio.cloud
 
 
 <!---
