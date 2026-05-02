@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisisAcidic, founder of https://simstrats.com (BETA)
+- 👋 Hi, I’m @thisisAcidic, 22 yo founder of https://simstrats.com (BETA) from Germany and a solo fullstack developer specialized in mobile app development.
 
 
 <!---
