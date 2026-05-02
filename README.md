@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisisAcidic
+- 👋 Hi, I’m @thisisAcidic, founder of https://simstrats.com
 
 
 <!---
