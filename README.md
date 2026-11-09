@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisisAcidic, 22 yo founder of https://chroniclestudio.cloud and https://simstrats.com (BETA) from Germany and a solo fullstack developer specialized in mobile app development.
+- 👋 Hi, I’m @thisisAcidic, 23 yo founder of https://cidix.dev , https://chroniclestudio.cloud and https://simstrats.com (BETA) from Germany and a solo fullstack developer specialized in mobile and web app development.
 
 
 <!---
